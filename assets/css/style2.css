@@ -280,8 +280,17 @@ input.submitButton{
 		width: 100%;
 		margin-top: 20px;
 	}
+
+	nav ul li a{
+		text-align: center;
+	}
+
 	.header{
 		width: 100%;
+	}
+
+	header{
+		position: static;
 	}
 
 	.brand{
